@@ -58,6 +58,184 @@ NB : System apps cannot really be uninstalled without root (see the [FAQ](https:
 | UK              | EE                                |
 
 
+
+# 📱 Common Android Bloatware Packages by Manufacturer
+
+> ⚠️ **Disclaimer:** Removing some packages might break essential functions. Always **back up your data** before uninstalling system apps.
+
+---
+
+## 🧩 Universal (AOSP / Google / Meta / Microsoft / Amazon)
+
+| App Name | Package Name | Notes |
+|-----------|---------------|-------|
+| Google Chrome | `com.android.chrome` | Optional; can use other browsers. |
+| Google Maps | `com.google.android.apps.maps` | Optional. |
+| Google Photos | `com.google.android.apps.photos` | Cloud sync app. |
+| Google Assistant | `com.google.android.apps.googleassistant` | Optional. |
+| YouTube | `com.google.android.youtube` | Replace with NewPipe. |
+| YouTube Music | `com.google.android.apps.youtube.music` | Optional. |
+| Gmail | `com.google.android.gm` | Optional. |
+| Drive | `com.google.android.apps.docs` | Optional. |
+| Play Movies | `com.google.android.videos` | Optional. |
+| Facebook | `com.facebook.katana` | Optional. |
+| Facebook Services | `com.facebook.services` | Optional. |
+| Instagram | `com.instagram.android` | Optional. |
+| LinkedIn | `com.linkedin.android` | Optional. |
+| Microsoft Office | `com.microsoft.office.officehubrow` | Optional. |
+| Amazon Shopping | `com.amazon.mShop.android.shopping` | Optional. |
+| Alexa | `com.amazon.dee.app` | Optional. |
+| Prime Video | `com.amazon.avod.thirdpartyclient` | Optional. |
+
+---
+
+## 📱 Samsung
+
+| App Name | Package Name | Notes |
+|-----------|---------------|-------|
+| Bixby Home | `com.samsung.android.app.spage` | Optional. |
+| Bixby Voice | `com.samsung.android.bixby.voiceinput` | Optional. |
+| AR Emoji | `com.samsung.android.aremoji` | Optional. |
+| Samsung Free | `com.samsung.android.app.spage` | Optional. |
+| Samsung Pay | `com.samsung.android.spay` | Optional. |
+| Samsung Health | `com.samsung.android.app.shealth` | Optional. |
+| Galaxy Store | `com.sec.android.app.samsungapps` | Optional. |
+| Game Launcher | `com.samsung.android.game.gamehome` | Optional. |
+| Samsung Members | `com.samsung.android.voc` | Optional. |
+| Global Goals | `com.samsung.sree` | Optional. |
+
+---
+
+## 📱 Xiaomi / MIUI
+
+| App Name | Package Name | Notes |
+|-----------|---------------|-------|
+| GetApps | `com.xiaomi.mipicks` | Xiaomi app store. |
+| Mi Video | `com.miui.videoplayer` | Optional. |
+| Mi Browser | `com.android.browser` | Optional. |
+| Mi Community | `com.mi.global.bbs` | Optional. |
+| Analytics | `com.miui.analytics` | Recommended to remove. |
+| Mi Cloud | `com.miui.cloudservice` | Optional. |
+| Mi Pay | `com.mipay.wallet.in` | Optional. |
+| Screen Recorder | `com.miui.screenrecorder` | Optional. |
+| Compass | `com.miui.compass` | Optional. |
+| Weather | `com.miui.weather2` | Optional. |
+
+---
+
+## 📱 OnePlus / Oppo / Realme
+
+| App Name | Package Name | Notes |
+|-----------|---------------|-------|
+| Clone Phone | `com.coloros.backuprestore` | Optional. |
+| Game Space | `com.coloros.gamespace` | Optional. |
+| HeyTap Cloud | `com.heytap.cloud` | Optional. |
+| ORoaming | `com.redteamobile.roaming` | Optional. |
+| App Market | `com.heytap.market` | Optional. |
+| Smart Sidebar | `com.coloros.smartsidebar` | Optional. |
+| Weather | `com.coloros.weather2` | Optional. |
+
+---
+
+## 📱 Huawei / Honor
+
+| App Name | Package Name | Notes |
+|-----------|---------------|-------|
+| HiCare | `com.huawei.phoneservice` | Optional. |
+| AppGallery | `com.huawei.appmarket` | Optional. |
+| Huawei Assistant | `com.huawei.intelligent` | Optional. |
+| Huawei Wallet | `com.huawei.wallet` | Optional. |
+| Themes | `com.huawei.android.thememanager` | Optional. |
+| Cloud | `com.huawei.hicloud` | Optional. |
+| Tips | `com.huawei.tips` | Optional. |
+
+---
+
+## 📱 Motorola
+
+| App Name | Package Name | Notes |
+|-----------|---------------|-------|
+| Moto Help | `com.motorola.help` | Optional. |
+| Moto Display | `com.motorola.motodisplay` | Optional. |
+| Moto Voice | `com.motorola.audiomonitor` | Optional. |
+| Moto App Launcher | `com.motorola.launcher3` | Optional. |
+
+---
+
+## 📱 Nokia (HMD Global)
+
+| App Name | Package Name | Notes |
+|-----------|---------------|-------|
+| My Phone | `com.evenwell.MyPhone` | Optional. |
+| Email | `com.evenwell.Email` | Optional. |
+| Evenwell Services | `com.evenwell.*` | Privacy concern; optional. |
+
+---
+
+## 📱 Sony
+
+| App Name | Package Name | Notes |
+|-----------|---------------|-------|
+| AR Effect | `com.sonymobile.areffect` | Optional. |
+| Xperia Lounge | `com.sonymobile.xperialounge.services` | Optional. |
+| Sketch | `com.sonymobile.sketch` | Optional. |
+| Weather | `com.sonymobile.weather` | Optional. |
+| What’s New | `com.sonymobile.advancedwidget.entrance` | Optional. |
+
+---
+
+## 📱 LG
+
+| App Name | Package Name | Notes |
+|-----------|---------------|-------|
+| SmartWorld | `com.lge.appbox.client` | Optional. |
+| QuickMemo+ | `com.lge.qmemoplus` | Optional. |
+| LG Health | `com.lge.lifetracker` | Optional. |
+| Smart Doctor | `com.lge.sdoupdate` | Optional. |
+| Smart Cleaning | `com.lge.smartcleaning` | Optional. |
+
+---
+
+## 📱 Asus
+
+| App Name | Package Name | Notes |
+|-----------|---------------|-------|
+| ZenUI Services | `com.asus.services` | Optional. |
+| Game Genie | `com.asus.gamewidget` | Optional. |
+| Mobile Manager | `com.asus.mobilemanager` | Optional. |
+| Themes | `com.asus.themes` | Optional. |
+
+---
+
+## 📱 Fairphone
+
+| App Name | Package Name | Notes |
+|-----------|---------------|-------|
+| Fairphone Updater | `org.fairphone.updater` | Keep if you use official OS updates. |
+| Fairphone Services | `com.fairphone.myfairphone` | Optional. |
+
+---
+
+## 📱 Oppo / Vivo / Realme Common Packages
+
+| App Name | Package Name | Notes |
+|-----------|---------------|-------|
+| Hot Apps | `com.oppo.market` | Optional. |
+| Hot Games | `com.heytap.huangyan` | Optional. |
+| Smart Assistant | `com.coloros.assistant` | Optional. |
+| Weather | `com.coloros.weather2` | Optional. |
+
+---
+
+## Mobile carriers debloat lists
+|   Country       | Carriers                          |
+|-----------------|-----------------------------------|
+| France          | Orange, SFR, Free, Bouygues       |
+| USA             | T-Mobile, Verizon, Sprint, AT&T   |  
+| Germany         | Telekom                           |
+| UK              | EE                                |
+
+
 ## How to use it 
 - **Read the [FAQ](https://github.com/0x192/universal-android-debloater/wiki/FAQ)!**
 - **Do a proper backup of your data! You can never be too careful!**
